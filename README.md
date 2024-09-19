@@ -19,7 +19,7 @@
 - *Tools*: Git, VS Code, Figma
 
 ## Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pihuuart_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pihuuarts_)
 
 
 ## GitHub Stats
